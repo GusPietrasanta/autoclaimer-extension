@@ -1,0 +1,1 @@
+# autorefresh-autoclick-chrome-extension
